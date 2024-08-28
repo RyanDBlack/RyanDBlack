@@ -17,12 +17,12 @@ Throughout my journey in computer engineering my objective has been to build a s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Blank skill                                  | <a href="https://google.com">Detection Lab</a>|
-| Blank skill | <a href="https://google.com">Detection Lab</a>|
-| Blank skill        | SOC Automation Lab|
-| Blank skill    | SOC Automation Lab|
-| Blank skill                 | SOC Automation Lab|
-| Blank skill | SOC Automation Lab|
+| Blank skill                                  | <a href="https://google.com"> Active Directory Project</a>|
+| Blank skill | <a href="https://google.com">Active Directory Project</a>|
+| Blank skill        |<a href="https://google.com">Active Directory Project|
+| Blank skill    | <a href="https://google.com">Active Directory Project|
+| Blank skill                 | <a href="https://google.com">Active Directory Project|
+| Blank skill | <a href="https://google.com">Active Directory Project|
 
 ## Tools
 
