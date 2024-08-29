@@ -68,7 +68,7 @@ Throughout my journey in computer engineering my objective has been to build a s
 </div>
 
 ## Projects
-- Smart Mirror Project (Capstone)
+- <a href="https://github.com/DanielMoore4875/Aphrodite">Smart Mirror Project (Capstone)</a>
 - Active Directory Project
 - Jira Project
 - SQL Database Project
