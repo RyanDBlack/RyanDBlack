@@ -20,9 +20,9 @@ Throughout my journey in computer engineering my objective has been to build a s
 | Enhanced knowledge of network protocols and security vulnerabilities                                   | <a href="https://github.com/RyanDBlack/Active-Directory-Project"> Active Directory Project</a>|
 | Development of critical thinking and problem-solving within Active Directory environment | <a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project</a>|
 | Configuring Active Directory within multiple virtual machines        |<a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project|
-| Blank skill    | <a href="https://google.com">Active Directory Project|
-| Blank skill                 | <a href="https://google.com">Active Directory Project|
-| Blank skill | <a href="https://google.com">Active Directory Project|
+| Blank skill    | <a href="https://google.com"> Project|
+| Blank skill                 | <a href="https://google.com">Project|
+| Blank skill | <a href="https://google.com">Project|
 
 ## Tools
 
