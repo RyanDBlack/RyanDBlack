@@ -1,4 +1,4 @@
-# Hello, I'm Ryan
+# Hello, I'm Ryan Black
 <a href="https://www.linkedin.com/in/ryan-black-8923b8256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 <!--<a href="https://ryandblack.github.io/RyanBlack.github.io/"><img src="https://img.shields.io/badge/-GitHub_Pages-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /> -->
 </a>
@@ -6,7 +6,7 @@
 
 <!--I'm a computer engineering graduate passionate about computers and technology. I am passionate about exploring the latest advancements in this ever-evolving field to expand my knowledge and skills while growing personally and professionally.-->
 
-I'm a computer engineering graduate passionate about computers and technology. I’m driven by the desire to explore the latest advancements in this ever-evolving field, constantly seeking to expand my knowledge and skills while growing both personally and professionally.
+I'm a Computer Engineering graduate who is passionate about computers and technology. I’m driven by the desire to explore the latest advancements in this ever-evolving field, constantly seeking to expand my knowledge and skills while growing both personally and professionally.
 
 <!--I'm a computer engineering graduate passionate about computers and technology. I am driven by a strong desire to explore the latest advancements in this ever-evolving field, continually expanding my knowledge and skills while fostering personal and professional growth.*-->
 
