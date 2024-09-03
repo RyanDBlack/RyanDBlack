@@ -4,11 +4,11 @@
 </a>
 
 
-I'm a computer engineering graduate passionate about computers and technology. I am passionate about exploring the latest advancements in this ever-evolving field to expand my knowledge and skills while growing personally and professionally.
+<!--I'm a computer engineering graduate passionate about computers and technology. I am passionate about exploring the latest advancements in this ever-evolving field to expand my knowledge and skills while growing personally and professionally.-->
 
-*I'm a computer engineering graduate passionate about computers and technology. I’m driven by the desire to explore the latest advancements in this ever-evolving field, constantly seeking to expand my knowledge and skills while growing both personally and professionally*
+I'm a computer engineering graduate passionate about computers and technology. I’m driven by the desire to explore the latest advancements in this ever-evolving field, constantly seeking to expand my knowledge and skills while growing both personally and professionally.
 
-*I'm a computer engineering graduate passionate about computers and technology. I am driven by a strong desire to explore the latest advancements in this ever-evolving field, continually expanding my knowledge and skills while fostering personal and professional growth.*
+<!--I'm a computer engineering graduate passionate about computers and technology. I am driven by a strong desire to explore the latest advancements in this ever-evolving field, continually expanding my knowledge and skills while fostering personal and professional growth.*-->
 
 ## Objective
 
