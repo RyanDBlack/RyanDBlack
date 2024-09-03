@@ -1,11 +1,12 @@
 # Hello, I'm Ryan
-<a href="https://www.linkedin.com/in/ryan-black-8923b8256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /><a href="https://ryandblack.github.io/RyanBlack.github.io/"><img src="https://img.shields.io/badge/-GitHub_Pages-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+<a href="https://www.linkedin.com/in/ryan-black-8923b8256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<!--<a href="https://ryandblack.github.io/RyanBlack.github.io/"><img src="https://img.shields.io/badge/-GitHub_Pages-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /> -->
 </a>
 
 
 I'm a computer engineering graduate passionate about computers and technology. I am passionate about exploring the latest advancements in this ever-evolving field to expand my knowledge and skills while growing personally and professionally.
 
-*I'm a computer engineering graduate with a strong passion for computers and technology. I’m driven by the desire to explore the latest advancements in this ever-evolving field, constantly seeking to expand my knowledge and skills while growing both personally and professionally*
+*I'm a computer engineering graduate passionate about computers and technology. I’m driven by the desire to explore the latest advancements in this ever-evolving field, constantly seeking to expand my knowledge and skills while growing both personally and professionally*
 
 *I'm a computer engineering graduate passionate about computers and technology. I am driven by a strong desire to explore the latest advancements in this ever-evolving field, continually expanding my knowledge and skills while fostering personal and professional growth.*
 
@@ -17,12 +18,12 @@ Throughout my journey in computer engineering my objective has been to build a s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Enhanced knowledge of network protocols and security vulnerabilities                                   | <a href="https://github.com/RyanDBlack/Active-Directory-Project"> Active Directory Project</a>|
-| Development of critical thinking and problem-solving within Active Directory environment | <a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project</a>|
-| Configuring Active Directory within multiple virtual machines        |<a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project|
-| Blank skill    | <a href="https://google.com"> Project|
-| Blank skill                 | <a href="https://google.com">Project|
-| Blank skill | <a href="https://google.com">Project|
+| Enhanced knowledge of network protocols and security vulnerabilities|<a href="https://github.com/RyanDBlack/Active-Directory-Project"> Active Directory Project</a>|
+| Development of critical thinking and problem-solving within Active Directory environment|<a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project</a>|
+| Configuring Active Directory within multiple virtual machine|<a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project|
+| Design and develop an Android application to communicate with a PCB, sensor modules, Arduino, and  Raspberry Pi using a Firebase database for sending, receiving, and storing information| <a href="https://github.com/DanielMoore4875/Aphrodite"> Aphrodite Smart Mirror Project|
+| Developed a custom PCB to interface with multiple sensor modules| <a href="https://github.com/DanielMoore4875/Aphrodite"> Aphrodite Smart Mirror Project|
+<!--| Blank skill | <a href="https:google.com"> Project|-->
 
 ## Tools
 
@@ -68,7 +69,7 @@ Throughout my journey in computer engineering my objective has been to build a s
 </div>
 
 ## Projects
-- <a href="https://github.com/DanielMoore4875/Aphrodite">Smart Mirror Project (Capstone)</a>
+- <a href="https://github.com/DanielMoore4875/Aphrodite">Aphrodite Smart Mirror Project (Capstone)</a>
 - <a href="https://github.com/RyanDBlack/Active-Directory-Project">Active Directory Project</a>
 <!--- Jira Project --->
 <!--- SQL Database Project --->
